@@ -1,0 +1,30 @@
+{
+  "name": "solidity-ast-traverse",
+  "version": "0.0.1",
+  "description": "Traversal function for Solidity AST trees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macor161/solidity-ast-traverse.git"
+  },
+  "keywords": [
+    "Solidity",
+    "AST",
+    "Abstract-Syntax-Tree",
+    "Traversal",
+    "Ethereum"
+
+  ],
+  "authors": [
+    "Raghav Dua",
+    "Mathew Cormier"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macor161/solidity-ast-traverse/issues"
+  },
+  "homepage": "https://github.com/macor161/solidity-ast-traverse#readme"
+}
